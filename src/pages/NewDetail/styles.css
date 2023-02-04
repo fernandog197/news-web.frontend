@@ -1,0 +1,36 @@
+.newdetail-container {
+    padding: 0;
+    margin: 0;
+    max-width: 1000px;
+    margin-left: 10%;
+}
+
+.newdetail-title-container-topic {
+    margin-bottom: 0;
+    font-size: 24px;
+    color: var(--color-sunshine);
+}
+
+.newdetail-title-container h1 {
+    font-size: 48px;
+    color: var(--color-vermillion);
+}
+
+.newdetail-title-container-description {
+    font-size: 24px;
+    color: black;
+}
+
+.newdetail-container-content-container {
+    max-width: 800px;
+}
+
+.newdetail-container-content {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.newdetail-img {
+    object-fit: cover;
+    max-width: 1000px;
+}
