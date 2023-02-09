@@ -69,29 +69,29 @@ const About = () => {
             </ul>
 
             <p className="about__paragraph">
-                Si desea mas información puede leer la documentación del proyecto haciendo clic <a href="">Aquí</a>
+                Si desea mas información puede leer la documentación del proyecto haciendo clic <a href="https://github.com/fernandog197/news-web.frontend" target='_blank'>Aquí</a>
             </p><br /><br />
             <h1 className="about__title">Acerca del desarrollador</h1>
             <p className="about__paragraph">
-                Mi nombre es Miguel Fernando Garcia, soy desarrollador full stack y apasionado el mundo IT. Amo aprender tecnologías nuevas y aplicarlas en mis proyectos. Si quieres saber mas sobre mí, mi trabajo y habilidades, o mis redes sociales, eres bienvenido a visitar mi pagina web o seguirme en mis redes 😊 (solo haz click en el link de tu interés 😊).<br /> <br />
+                Mi nombre es Miguel Fernando Garcia, soy desarrollador web y apasionado el mundo IT. Amo aprender tecnologías nuevas y aplicarlas en mis proyectos. Si quieres saber mas sobre mí, mi trabajo y habilidades; o mis redes sociales, eres bienvenido a visitar mi pagina web o seguirme en mis redes 😊 (solo haz click en el link de tu interés 😊).<br /> <br />
                 Muchas gracias por su visita! 😃
             </p>
             <br />
             <br />
             <div className='about__contact'>
-                <a href="" className='about__contact-link'>
+                <a href="https://miguelgarcia-portfolio.netlify.app/" target='_blank' className='about__contact-link'>
                     <WorkIcon fontSize='large' />
                 </a>
-                <a href="" className='about__contact-link'>
+                <a href="https://github.com/fernandog197" target='_blank' className='about__contact-link'>
                     <GitHubIcon fontSize='large' />
                 </a>
-                <a href="" className='about__contact-link'>
+                <a href="https://www.linkedin.com/in/miguel-fernando-garcia-1b1670186/" target='_blank' className='about__contact-link'>
                     <LinkedInIcon fontSize='large' />
                 </a>
-                <a href="" className='about__contact-link'>
+                <a href="https://twitter.com/MiguelF33016837" target='_blank' className='about__contact-link'>
                     <TwitterIcon fontSize='large' />
                 </a>
-                <a href="" className='about__contact-link'>
+                <a href="mailto:bluewavesalta@gmail.com" target='_blank' className='about__contact-link'>
                     <EmailIcon fontSize='large' />
                 </a>
             </div>

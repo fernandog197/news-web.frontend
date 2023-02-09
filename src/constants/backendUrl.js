@@ -1,1 +1,1 @@
-export const baseUrl = 'http://localhost:5000/'
+export const baseUrl = 'https://news-api-jvc4.onrender.com/'

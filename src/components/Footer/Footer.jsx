@@ -25,7 +25,7 @@ const Footer = () => {
                     <a className='footer-header-social-logos-enlaces' href="https://www.linkedin.com/in/miguel-fernando-garcia-1b1670186/" target='_blank'>
                         <LinkedInIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
-                    <a className='footer-header-social-logos-enlaces' href="" target='_blank'>
+                    <a className='footer-header-social-logos-enlaces' href="https://miguelgarcia-portfolio.netlify.app/" target='_blank'>
                         <WebIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
                     <a className='footer-header-social-logos-enlaces' href="https://twitter.com/MiguelF33016837" target='_blank'>
@@ -62,9 +62,9 @@ const Footer = () => {
                             scroll(0,0)
                         }}>
                             Write me a message!
-                    </li>
-                        <li>bluewavesalta@gmail.com</li>
-                        <li>WhatsApp</li>
+                        </li>
+                        <li><a href="mailto:bluewavesalta@gmail.com" className='footer-header-social-logos-enlaces'>bluewavesalta@gmail.com</a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=+5493874579397&text=Hola! dejame un mensaje!" target='_blank' className='footer-header-social-logos-enlaces'>WhatsApp</a></li>
                     </ol>
                 </div>
                 <div className="footer-footer-redes">
