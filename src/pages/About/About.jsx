@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 import Image1 from '../../assets/meganews-background.jpg'
 
@@ -11,7 +11,10 @@ import EmailIcon from '@mui/icons-material/Email'
 import './styles.css'
 
 const About = () => {
-
+    useEffect(() => {
+        scroll(0,0)
+    }, [])
+    
     return (
         <div className='about__container'>
             <h1 className="about__title">MEGA News</h1>

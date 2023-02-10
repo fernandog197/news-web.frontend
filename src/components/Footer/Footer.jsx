@@ -25,7 +25,7 @@ const Footer = () => {
                     <a className='footer-header-social-logos-enlaces' href="https://www.linkedin.com/in/miguel-fernando-garcia-1b1670186/" target='_blank'>
                         <LinkedInIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
-                    <a className='footer-header-social-logos-enlaces' href="https://miguelgarcia-portfolio.netlify.app/" target='_blank'>
+                    <a className='footer-header-social-logos-enlaces' href="https://miguelgarcia-portfolio-miguedev.vercel.app/" target='_blank'>
                         <WebIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
                     <a className='footer-header-social-logos-enlaces' href="https://twitter.com/MiguelF33016837" target='_blank'>
@@ -35,7 +35,7 @@ const Footer = () => {
                         <YouTubeIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
                 </div>
-                <h3 onClick={() => {navigate('/aboutMe')}}>Created by Miguel Fernando Garcia - Web Developer</h3>
+                <h3 onClick={() => {navigate('/about')}}>Created by Miguel Fernando Garcia - Web Developer</h3>
                 <div className='footer-header-logo-container'>
                     <Link to='/'>
                         <img className='footer-header-logo-img' src={LogoFresh} alt="logo" />
@@ -76,7 +76,7 @@ const Footer = () => {
                             </a>
                         </li>
                         <li>
-                            <a className='footer-header-social-logos-enlaces' href="" target='_blank'>
+                            <a className='footer-header-social-logos-enlaces' href="https://miguelgarcia-portfolio-miguedev.vercel.app/" target='_blank'>
                                 Web
                             </a>
                         </li>
