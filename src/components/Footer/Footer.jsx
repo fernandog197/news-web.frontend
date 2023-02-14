@@ -22,7 +22,7 @@ const Footer = () => {
                     <a className='footer-header-social-logos-enlaces' href="https://github.com/fernandog197" target='_blank'>
                         <GitHubIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
-                    <a className='footer-header-social-logos-enlaces' href="https://www.linkedin.com/in/miguel-fernando-garcia-1b1670186/" target='_blank'>
+                    <a className='footer-header-social-logos-enlaces' href="https://www.linkedin.com/in/miguelgarcia-dev/" target='_blank'>
                         <LinkedInIcon className='footer-header-logos-each' fontSize='large' />
                     </a>
                     <a className='footer-header-social-logos-enlaces' href="https://miguelgarcia-portfolio-miguedev.vercel.app/" target='_blank'>
@@ -71,7 +71,7 @@ const Footer = () => {
                     <ol className='footer-footer-orderlist'>
                         <li className='footer-footer-listelement'>Social</li>
                         <li>
-                            <a className='footer-header-social-logos-enlaces' href="https://www.linkedin.com/in/miguel-fernando-garcia-1b1670186/" target='_blank'>
+                            <a className='footer-header-social-logos-enlaces' href="https://www.linkedin.com/in/miguelgarcia-dev/" target='_blank'>
                                 LinkedIn
                             </a>
                         </li>
